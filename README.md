@@ -1,8 +1,57 @@
+# DAFTAR TUGAS
+
+<table border="2" cellpading="10">
+  <tr>
+    <td><b>Pertemuan 4</b></td>
+    <td>Latihan VCS</td>
+    <td><a href="https://github.com/Aditya-Bani/LatihanVCS">Klik disini</td>
+  </tr>
+  <tr>
+    <td><b>Pertemuan 5</b></td>
+    <td>Program Biodata</td>
+    <td><a href="https://github.com/Aditya-Bani/Pertemuan-5">Klik disini</td>
+  </tr>
+  <tr>
+    <td><b>Pertemuan 6</b></td>
+    <td>Lab1 dan 2</td>
+    <td><a href="https://github.com/Aditya-Bani/ProjectPraktikum">Klik disini</td>
+  </tr>
+  <tr>
+    <td><b>Pertemuan 7</b></td>
+    <td>Lab3</td>
+    <td><a href="https://github.com/Aditya-Bani/Lab3">Klik disini</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Labspy02</td>
+    <td><a href="https://github.com/Aditya-Bani/Labspy02">Klik disini</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Labpy03</td>
+    <td><a href="https://github.com/Aditya-Bani/Labspy03">Klik disini</td>
+  </tr>
+  <tr>
+    <td><b>Pertemuan 9</b></td>
+    <td>Lab 4</td>
+    <td><a href="https://github.com/Aditya-Bani/Lab4">Klik disini</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Lab 5</td>
+    <td><a href="https://github.com/Aditya-Bani/Lab5">Klik disini</td>
+  </tr>
+  <tr>
+    <td><b>Pertemuan 10</b></td>
+    <td>Lab 6</td>
+    <td><a href="https://github.com/Aditya-Bani/Lab6">Klik disini</td>
+  </tr>
+</table>_________________________________________________________________________________
 _________________________________________________________________________________
 
 # LAB 6
 
-![Latihan 1](https://github.com/HamdanAlWahidan/TUGAS_PERTEMUAN_10-LAB-6/blob/main/Pertemuan%2010%20LAB%206%20-%20SS/00.png) <br>
+![Latihan](Gambar/Soal.png)
 
 
 
@@ -12,13 +61,13 @@ Pada tugas LAB 6, saya diminta untuk membuat sebuah program menambahkan data ke 
 
 * Disini saya membuat file library root nya terlebih dahulu dengan nama folder yaitu data:
 
-![Latihan 1.1](https://github.com/HamdanAlWahidan/TUGAS_PERTEMUAN_10-LAB-6/blob/main/Pertemuan%2010%20LAB%206%20-%20SS/0.png) <br>
+![Gambar1](Gambar/gbr1.PNG)
 
-![Latihan 1.2](https://github.com/HamdanAlWahidan/TUGAS_PERTEMUAN_10-LAB-6/blob/main/Pertemuan%2010%20LAB%206%20-%20SS/1.png) <br>
+![Gambar2](Gambar/gbr2.PNG)
 
 * Setelah itu buat lah file python nya dengan nama (lab6.py) tapi itu terserah kalian mau menggunakan nama apa
 
-![Latihan 1.3](https://github.com/HamdanAlWahidan/TUGAS_PERTEMUAN_10-LAB-6/blob/main/Pertemuan%2010%20LAB%206%20-%20SS/3.png) <br>
+![Gambar3](Gambar/gbr3.PNG)
 
 Lalu mari kita mengcoding file tersebut dengan syntax seperti di bawah ini
 
@@ -81,7 +130,7 @@ Jika sudah memasukan semua syntax diatas jangan di run terlebih dahulu nanti fil
 
 * Selanjutnya kita bikin file pythonnya tetapi di luar folder data untuk menjalankan file yang barusan di coding oleh kita. File yang kita akan bikin berilah nama (main.py) karna itu akan menjadi file yang akan menjalankan file library root yang telah kita bikin sebelumnya.
 
-![Foto Lat1](https://github.com/HamdanAlWahidan/TUGAS_PERTEMUAN_10-LAB-6/blob/main/Pertemuan%2010%20LAB%206%20-%20SS/4.png) <br>
+![Gambar4](Gambar/gbr4.PNG)
 
 * Jika sudah mari kita coding lagi file ini mari kita skuylah. Seperti biasa mengikuti syntax nya oke.
 
@@ -116,7 +165,7 @@ from data import lab6
 ```
 Fungsi nya ini untuk menjalankan file library root nya yaitu dari folder bernama (data) untuk membuka file (lab6.py). Itu penjelasan singkatnya, kalau sudah langsung run aja tapi sebelum di run save dulu nanti kalau hilang nangis :v udah langsung skuy ajalah. Nanti akan jadi seperti di bawah ini.
 
-![Foto Lat1](https://github.com/HamdanAlWahidan/TUGAS_PERTEMUAN_10-LAB-6/blob/main/Pertemuan%2010%20LAB%206%20-%20SS/9.png) <br>
+![Gambar5](Gambar/gbr5.PNG)
 
 Cukup sekian tugas dari saya jika ada kesalahan saya mohon maaf yang sebesar besar.
 
